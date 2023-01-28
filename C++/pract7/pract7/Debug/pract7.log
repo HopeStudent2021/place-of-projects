@@ -1,0 +1,4 @@
+﻿  pract7.cpp
+C:\Users\user\Desktop\C++\pract7\pract7\pract7.cpp(168): warning C4101: sex: неиспользованная локальная переменная
+C:\Users\user\Desktop\C++\pract7\pract7\pract7.cpp(170): warning C4101: age: неиспользованная локальная переменная
+  pract7.vcxproj -> C:\Users\user\Desktop\C++\pract7\Debug\pract7.exe
