@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\C++\pract 3\pract 3\Source.cpp(118): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\user\Desktop\C++\pract 3\pract 3\Source.cpp(159): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\Desktop\C++\pract 3\pract 3\Source.cpp(183): error C2065: min: необъявленный идентификатор
