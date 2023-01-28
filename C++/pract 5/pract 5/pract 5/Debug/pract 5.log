@@ -1,0 +1,20 @@
+﻿  ex 1.cpp
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(369): error C2106: =: левый операнд должен быть левосторонним значением
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(384): error C2106: =: левый операнд должен быть левосторонним значением
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(386): error C2059: синтаксическая ошибка: ;
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(390): error C2059: синтаксическая ошибка: return
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(391): error C2059: синтаксическая ошибка: }
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(391): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(395): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(395): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(433): error C2065: city_count: необъявленный идентификатор
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(436): error C2065: city_count: необъявленный идентификатор
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(439): error C2065: city_rooms: необъявленный идентификатор
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(439): error C2065: city_count: необъявленный идентификатор
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(442): error C2065: city_rooms: необъявленный идентификатор
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(442): error C2065: city_count: необъявленный идентификатор
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(442): error C3861: Selection_sort: идентификатор не найден
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(445): error C2065: city_rooms: необъявленный идентификатор
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(445): error C2065: city_count: необъявленный идентификатор
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(448): error C2065: city_rooms: необъявленный идентификатор
+C:\Users\user\Desktop\C++\pract 5\pract 5\pract 5\ex 1.cpp(448): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
